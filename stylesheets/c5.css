@@ -1,0 +1,41 @@
+.box
+{
+  width: 200px;
+  height: 200px; 
+  position: absolute; 
+}
+
+#box1
+{
+    background-color: bisque;
+    left: 200px;
+}
+
+#box2
+{
+    background-color: burlywood;
+}
+
+#box3
+{
+    background-color: brown;
+}
+
+.container
+{
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    position: relative;
+}
+
+.shape
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    left: 490px;
+    z-index: -1;
+    
+}

@@ -1,0 +1,32 @@
+.para
+{
+    color: bisque;
+}
+
+.para span
+{
+    color: #a52a2a;
+}
+body{
+    background-color: #faebd7;
+}
+
+.box{
+
+    color: #4a4ab3;
+    width: 50%;
+    height: 250px;
+    background-color: #a52a2a;
+    padding: 25px;
+    border: 20px; double
+}
+
+#button
+{
+    color: #4a4ab3;
+    width: 50%;
+    height: 200px;
+    backgroun
+}
+
+    

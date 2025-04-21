@@ -1,0 +1,40 @@
+.para
+{
+    font-size: 25px;
+}
+
+.para::first-letter
+{
+    color: blue;
+    font-size: 40px;
+}
+
+.para::first-line
+{
+    text-decoration: 2px overline yellow;
+}
+
+.container h6
+{
+    background-color: aquamarine;
+}
+
+.container>h6
+{
+    background-color: aquamarine;
+}
+
+.container + h2
+{
+    color: blue;
+}
+
+.container> :first-child
+{
+    background-color: brown;
+}
+
+.container  :first-child
+{
+    background-color: chartreuse;
+}

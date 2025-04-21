@@ -1,0 +1,35 @@
+.para
+{
+    background-color: aqua;
+}
+
+.para span
+{
+    background-color: blue;
+    display: inline-block;
+    height: 1000px;
+}
+
+.box
+{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: double; color:black;
+    margin: 10px;
+    display: inline-block;
+}
+
+.container
+{
+    background-color: antiquewhite;
+    margin: 40px 60px;
+    box-shadow: 10px 10px;
+}
+
+h1
+{
+    color: crimson;
+    text-align: center;
+    text-shadow: 10px 10px 5px;
+}

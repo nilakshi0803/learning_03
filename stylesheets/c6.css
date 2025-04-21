@@ -1,0 +1,18 @@
+body{
+    background-image: url(../stylesheets/images/Him.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: top center;
+    background-attachment: fixed;
+}
+
+.box
+{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    overflow: auto;
+    position: sticky;
+    top: 50px;
+    left: 50px;
+}
